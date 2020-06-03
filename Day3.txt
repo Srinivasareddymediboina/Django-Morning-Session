@@ -1,0 +1,59 @@
+Good morning all
+================
+Django:
+    -- django is framework using for developing Web applications.
+    -- it MVC (Model View Controller)
+        -- in this MVC we will split a lorge program into sub parts or sub
+            programs
+    -- Model --> i can write logic for related to database connections only
+    --> Views --> here i can write logic for related to user representations ike
+        all html files
+    --> controller: here i can bulid main logic for controlleing both model and view
+
+    --> Django follows MVT
+        -- Model: here i am storing db connections
+        -- View: will work like a controller(main logic)
+        -- Template: in this template we will store all .html files
+
+    -->Django Installation process:
+        --> we have to install python
+        --> we have to run cammnad in command propt
+            i..e, pip install django
+                    pip install django == 2.2.1
+    --> project creation
+        --> fisrt we have to choose a specific lacation
+        --> from that location open commandpropt
+        --> in that cmd run a cmd for creating django project
+            i.e django-admin startproject projectName
+            -- when i run this cmd it will generate two different files
+                -- first one is folder with name of project
+                    -- this folder related to admin part
+                    --> __init__.py : this file tell to python consider this folder also like a python file
+                    --> settings.py : in this .py file we will make all project settings
+                    --> urls.py : here we will map all our urls
+                                        like: https://mypage.com/register,https://mypage.com/login
+                    -->wsgi.py:
+                -- manage.py : this file will acts as a interface between djnago project and
+                                        command prompt(it command line utility)
+                                        -->using this manage.py i can run server
+                                        --> using this i can exectute db connections
+                                        --> i can able to open shells
+                                        --> for creating user application we can use this manage.py file
+
+                --> in cmd execetute this command to run your django application
+                        i.e, python manage.py runserver
+
+        -->app creation:
+            --> for creating user app we have to run a cmmand
+                i.e, python manage.py startapp app_name
+                ---> it will generate few files
+                        -->migrations: it will handle all db connections
+                        -->__init__.py: it will convey to python to treate this app is also a python file
+                        --> admin.py : by using this file we will give permision to admin to
+                            access our models that means out db tables
+                        --> app.py : here will weill see app info
+                        -->models.py: we will write all db connections
+                        --> test.py: we are using this file for testing only
+                        -->views.py : it is working like a controller for controlling all navigations
+
+               --> after creating app we have to register our app in setting.py file
