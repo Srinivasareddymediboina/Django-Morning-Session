@@ -1,0 +1,39 @@
+Goodmorning to all:
+........................
+
+what is web frame work?
+
+MVT(model view Template)
+MVC(model view control)
+
+
+
+
+model:Database...>tables....>rows and cols
+
+
+view:frontend....>html..>css....>bootstrap
+
+
+control:mediater......
+
+
+
+requirements:
+..............
+editor...>notepad,notepad++,pycharm,sublime..etc
+
+
+ 			sublime...https://www.sublimetext.com/3
+
+python.....>3.6 or 3.7.6    https://www.python.org/
+
+django.......>django==3.0.1  pip install Django==3.0.1
+
+
+
+
+
+
+
+
