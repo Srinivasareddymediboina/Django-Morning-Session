@@ -1,0 +1,79 @@
+Today Objectives 
+----------------
+1.Functions
+2.Python OOPS
+3.Packages and Modules
+
+
+1.Function
+-----------
+->It is collection of statements
+	->code reusebulity
+	->reduce the code length
+Syntax:
+-------
+def FunName():
+    .
+    .
+    .
+    .
+FunName()
+
+
+2.Python OOPS:
+--------------
+1.class
+2.object
+3.constructors
+4.Inheritance
+
+1.class
+--------
+-> it is a collection of variables and methods
+	->method: if function is existed the class then will call that is  a 		  method
+
+Syntax
+-------
+class ClassName:
+    list of variables
+    list of methods
+
+2.Object:
+---------
+->It is a instance of class
+
+Syntax:
+-------
+obj_name=className
+
+
+3.Constructors:
+---------------
+->The Main Advantage of Contructor is without using the object  we will call the function
+
+4.Inheritance:
+--------------
+->We are trying to inherting something from parent class to child class
+
+Format is: class ChildClass(ParentClass)
+1.Single level inheritance
+2.Multiple inheritance
+
+
+
+3.Modules and Packages
+----------------------
+
+->Module: it is .py file
+	-> it contains functions and classes
+	.Math
+	.Random
+	.keyword
+-> for accessing the module we are using import keyword
+	import random
+->
+
+
+
+
+
