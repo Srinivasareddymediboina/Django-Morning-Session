@@ -1,0 +1,38 @@
+GoodMorning to All:
+.......................
+Today Concepts:
+    -->dynamic URL Mapping
+    -->templates
+    	* it stores all the .html files
+    	* templates..>Studets..>index.html
+    	* return render(req,'.html')
+
+    for printing values in .html files
+
+    {{}}
+    
+    {%  %}
+
+    {% for i in info %}
+
+    {% endfor %}
+
+    {% if condiction %}
+
+    {% elif %}
+
+    {% else %}
+
+    {% endif %}	
+
+
+
+
+
+
+
+
+
+task:
+...............
+ my name is satheesh rollno is 566
