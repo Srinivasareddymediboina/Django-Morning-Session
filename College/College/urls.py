@@ -23,7 +23,8 @@ urlpatterns = [
     path('seenu/<str:name>/',views.home1,name='home1'),
     path('anil/<int:id>/',views.home2,name='home2'),
     path('registration/',views.register,name='register'),
-    path('showdetails/',views.showdata,name='showdata')
+    path('showdetails/',views.showdata,name='showdata'),
+    path('home/',views.myhome,name='myhome'),
 ]
 
 
