@@ -5,3 +5,4 @@
 ### [Day 3 No Video]
 ### [Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/02bf78b7022fb216d8e3d7daafe233cd26d46068f49ec13b4105dd87b73fcdee)
 ### [Day 5 Video Link](https://transcripts.gotomeeting.com/#/s/63c003c772bf3c5443f973fff227d39aa065dab28797e15e79ca98a70aa306a2)
+### [Day 6 Video Link](https://transcripts.gotomeeting.com/#/s/60bcccdc84a505b5a1272487959a656daf6036557e2777ecca3b7942e51e106c)
