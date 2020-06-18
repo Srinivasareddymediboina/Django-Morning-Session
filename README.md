@@ -14,3 +14,4 @@
 ### [Day 12 Video Link](https://transcripts.gotomeeting.com/#/s/44b2f676cc6b0684d4ee135ce3ab4aab47ac1722f5285d39390ef018857a19ab)
 ### [Day 13 Video Link](https://transcripts.gotomeeting.com/#/s/bcbab3b59050eba5c8c095dcdddc5dca53b0945f2aa2a234735206356f4d7246)
 ### [Day 14 Video Link](https://transcripts.gotomeeting.com/#/s/1ac5a4577272e0622c4a2e3db94d64f5347fbf02c9e63e79c39a06ae40a571cf)
+### [Day 15 Video Link](https://transcripts.gotomeeting.com/#/s/69a82024c7e93ef39268b09209d30d2c4507df33d0a5005053ddd6ba426c1e34)
